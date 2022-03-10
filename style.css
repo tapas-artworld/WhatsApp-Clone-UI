@@ -212,8 +212,8 @@ body{
     color: #555;
 }
 .chatbox_input{
-    position: relative;
-    margin-top: 676px;
+    position: absolute;
+    bottom: 5px;
     width: 100%;
     height: 60px;
     background: #f0f0f0;
